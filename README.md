@@ -99,7 +99,7 @@ Comprehensive Analysis has been conducted on the Dataset, illustrated through a 
 
 # ✍ Acknowledgement
 
-Thank you to Accenture and Forage for providing me this Invaluable Oppurtunity, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
+Thank you to TATA and Forage for providing me this Invaluable Oppurtunity, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
 - Forage :- https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-mmlb/project-understanding
 
 #  🌟About Me 🙎‍♀️
