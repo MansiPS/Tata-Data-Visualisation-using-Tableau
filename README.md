@@ -38,7 +38,7 @@ This Project is Motivated by my Aspiration to Gain Hands-on Experience in Data A
 
 # ⏳ Dataset
 
-The Social Buzz Dataset is a collection of 3 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
+The Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
 - Dataset Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16487848/Raw.Data.xlsx)
 
@@ -46,9 +46,22 @@ The Social Buzz Dataset is a collection of 3 Excel Files, featuring Comprehensiv
 
 When we examine, we observe a number of Different Columns in the Dataset.
 
+- Invoice No : Unique Identifier assigned to each Invoice for Tracking and Reference Purposes.
+- Stock Code : Identifier for the Specific Product or Item being sold.
+- Description : Detailed Description of the Product or Item listed on the Invoice.
+- Quantity : Number of Units of the Product Purchased in each Transaction.
+- Invoice Date : Date on which the Invoice was Generated.
+- Unit Price : Price per Individual unit of the Product.
+- Customer ID : Unique Identifier assigned to each Customer for Distinguishing between Different Buyers.
+- Country : Country where the Customer is Located.
+- Revenue : Total Revenue generated from the Sale calculated as Quantity multiplied by Unit Price.
+
 # Requirement
 
-- ✅ Analysis to Find Social Buzz’s top 5 most Popular Categories of Content.
+- ✅ Revenue by Month in Year 2011.
+- ✅ Top 10 Countries with Highest Revenue.
+- ✅ Top 10 Highest Revenue enerating Customers.
+- ✅ Revenue by Region.
 
 # 🧹 Data Cleaning ✨
 
@@ -56,26 +69,19 @@ When we examine, we observe a number of Different Columns in the Dataset.
 - Changed the Data Types wherever required.📅
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
+- Added a Column "Revenue" by using a Function.
 
 # ✅ Installation : ETL Tools ✅
 
-Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Excel.
-- MS Excel Installation Link :- https://www.microsoft.com/en-in/microsoft-365/excel
+Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Tableau Public.
+- Tableau Public Installation Link :- [https://public.tableau.com](https://www.tableau.com/products/public)
 
 # 🚀 My Project
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
-[Analysis.xlsx](https://github.com/user-attachments/files/16487175/Analysis.xlsx)
-
-Using Custom functions like LOOKUPS, I have manipulated data and created this Amazing Analysis.
-
-The Operations performed are:
-- Applied Sorting and Filters📶
-- Applied necessary Functions📊
-
-The Entirety of this Project, Complete with all Intricate Details and Findings, is Meticulously presented in the Accompanying PowerPoint Presentation.
-[Presentation.pptx](https://github.com/user-attachments/files/16487173/Presentation.pptx)
+- Checkout the Analysis here :- [Analysis.xlsx](https://github.com/user-attachments/files/16487985/Analysis.xlsx)
+- Checkout the Tableau Dashboard here :- https://github.com/MansiPS/Tata-Data-Visualisation-using-Tableau/blob/056f3d55ec94c2366651c9babefa3b901a7b152b/Data%20Visualisation.twb
 
 # Author 🙎‍♀️  
 
