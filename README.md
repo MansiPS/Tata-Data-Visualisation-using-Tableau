@@ -2,7 +2,7 @@
 
 ![Designer (1)](https://github.com/user-attachments/assets/3258f2c3-dc17-4568-a2af-c31148f358de)
 
-# Project Title - Accenture Social Buzz Analysis
+# Project Title - Tata Data Visualisation
 
 - This Repository Presents an Extensive Collection of Data Visualizations developed in Collaboration with Tata Consultancy Services and Forage.
 - By Leveraging this Project, we can Uncover Valuable Insights and Enable Informed Decision-Making.
